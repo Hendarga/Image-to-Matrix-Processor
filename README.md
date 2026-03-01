@@ -1,1 +1,1 @@
-# Multidimensional-Data-Representation-with-NumPy
+# Image-to-Matrix Processor
